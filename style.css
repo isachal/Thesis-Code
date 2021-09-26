@@ -1,7 +1,18 @@
 body {
 
-margin: 0;
+margin: 30;
 background: red;
+}
 
+button{
+    align-content: center;
+    padding: 10px 22px;
+    font-size: 16px;
+    margin-left: 50px;
+}
 
+.divider{
+    width:5px;
+    height:auto;
+    display:inline-block;
 }
