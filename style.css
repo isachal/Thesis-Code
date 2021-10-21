@@ -8,11 +8,15 @@ button{
     align-content: center;
     padding: 10px 22px;
     font-size: 16px;
-    margin-left: 50px;
+    margin-right : 40px;
+    margin-bottom: 25px;
+    
+    
 }
 
 .divider{
     width:5px;
-    height:auto;
+    padding-bottom: 8px;
+    height:20 px;
     display:inline-block;
 }
